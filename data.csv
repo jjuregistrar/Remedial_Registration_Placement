@@ -26,7 +26,6 @@ AdmissionNumber	StudentID	Name	Gender	Building	Window	RegistrationDate	Stream	Do
 7930033	JJURMRE182708	Hana Jama Ahmed	Female	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-16	2	1
 7069673	JJURMRE182709	Rehan Mahamed Dek	Female	Main Registrar	Window 3	November 14-16, 2025	Natural Science	Block-16	2	2
 7930073	JJURMRE182710	Sadra Sareye Abdi	Female	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-16	2	3
-7094514	JJURMRE182711	Muntas Nour Mohamed	Female	Main Registrar	Window 2	November 14-16, 2025	Natural Science	Block-16	2	4
 7093352	JJURMRE182713	Huda Yusuf Hassen	Female	Main Registrar	Window 3	November 14-16, 2025	Natural Science	Block-16	2	5
 7433530	JJURMRE182714	Hiwot Girma Chala	Female	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-16	2	6
 6440826	JJURMRE180016	Abdi Mohammed Yuya	Male	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-37	2	5
@@ -2717,3 +2716,4 @@ AdmissionNumber	StudentID	Name	Gender	Building	Window	RegistrationDate	Stream	Do
 6235017	JJURMRE181807	Mohammed Seid Adem	Male	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-37	76	5
 8247755	JJURMRE181803	Mohammed Jemal Seid	Male	Main Registrar	Window 3	November 14-16, 2025	Natural Science	Block-37	76	3
 7875647	JJURMRE181808	Mohammed Seid Ahmed	Male	Main Registrar	Window 1	November 14-16, 2025	Natural Science	Block-37	76	6
+
